@@ -1,0 +1,26 @@
+.card{
+    display:flex;
+    flex-direction: row;
+}
+.card1{
+    border: 1px solid red;
+    height:200px;
+    width:100px;
+  
+}
+.card2{
+    border: 1px solid red;
+    height:200px;
+    width:100px;
+}
+.card3{
+    border: 1px solid red;
+    height:200px;
+    width:100px;
+   
+}
+.oreo{
+    color:red;
+    display:none;
+    line-height: 0.3;
+}
